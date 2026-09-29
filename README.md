@@ -18,8 +18,11 @@
 
 ## 📦 使用
 
+### 下载
+前往 [**Releases**](https://github.com/Supermikeka/Bytepeek/releases) 页面下载最新版 `BytePeek_v1.4.x.exe`（单文件免安装）。
+
 ### 图形界面
-运行 BytePeek.exe（单文件，免安装），点击选择文件即可扫描；结果区可查看字节构成图、发现明细与完整详情，并可一键导出 HTML 报告。
+运行 BytePeek.exe，点击选择文件即可扫描；结果区可查看字节构成图、发现明细与完整详情，并可一键导出 HTML 报告。
 
 ### 绑定右键菜单（首次使用推荐）
 

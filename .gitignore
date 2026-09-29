@@ -7,11 +7,9 @@ __pycache__/
 venv/
 .venv/
 
-# 构建产物（成品 exe 例外，允许入库供直接下载）
+# 构建产物（成品 exe 改由 GitHub Releases 分发）
 build/
-dist/*
-!dist/BytePeek.exe
-*.spec
+dist/
 
 # 工作区
 .workbuddy/
