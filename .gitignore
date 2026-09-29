@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+.venv/
+
+# 构建产物（成品 exe 例外，允许入库供直接下载）
+build/
+dist/*
+!dist/BytePeek.exe
+*.spec
+
+# 工作区
+.workbuddy/
